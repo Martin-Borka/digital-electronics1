@@ -6,7 +6,8 @@
 
    Greater than:
 
-   ![Bez názvu](https://user-images.githubusercontent.com/124675843/218857722-cec72749-1dbc-4ab4-ae1d-84fe898df1dc.png)
+   ![Bez názvu](https://user-images.githubusercontent.com/124675843/218858095-bd37251c-6d62-4888-accb-0cd45dd28869.png)
+
 
    Less than:
 
