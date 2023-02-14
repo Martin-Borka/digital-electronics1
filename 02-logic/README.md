@@ -6,7 +6,7 @@
 
    Greater than:
 
-   | b<a | 00 | 01 | 11 | 10 |
+   | b > a | 00 | 01 | 11 | 10 |
    | :-: | :-: | :-: | :-: | :-: |
    | 00 | 0 | 0 | 0 | 0 |
    | 01 | 1 | 0 | 0 | 0 |
@@ -15,7 +15,12 @@
 
    Less than:
 
-   ![K-maps](images/kmap_empty.png)
+   | b < a | 00 | 01 | 11 | 10 |
+   | :-: | :-: | :-: | :-: | :-: |
+   | 00 | 0 | 1 | 1 | 1 |
+   | 01 | 0 | 0 | 1 | 1 |
+   | 11 | 0 | 0 | 0 | 0 |
+   | 10 | 0 | 0 | 1 | 0 |
 
 2. Mark the largest possible implicants in the K-map and according to them, write the equations of simplified SoP (Sum of the Products) form of the "greater than" function and simplified PoS (Product of the Sums) form of the "less than" function.
 
