@@ -6,7 +6,11 @@
 
    Greater than:
 
-   ![K-maps](images/kmap_empty.png)
+   | b<a | 00 | 01 | 11 | 10 |
+   | 00 | 0 | 0 | 0 | 0 |
+   | 01 | 1 | 0 | 0 | 0 |
+   | 11 | 1 | 1 | 0 | 1 |
+   | 10 | 1 | 1 | 0 | 0 |
 
    Less than:
 
