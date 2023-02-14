@@ -6,17 +6,14 @@
 
    Greater than:
 
-   ![Bez názvu](https://user-images.githubusercontent.com/124675843/218858095-bd37251c-6d62-4888-accb-0cd45dd28869.png)
+   ![tab1](https://user-images.githubusercontent.com/124675843/218859012-6559d02e-f5b0-48fe-84a5-022c557a77da.png)
+
 
 
    Less than:
 
-   | b < a | 00 | 01 | 11 | 10 |
-   | :-: | :-: | :-: | :-: | :-: |
-   | 00 | 0 | 1 | 1 | 1 |
-   | 01 | 0 | 0 | 1 | 1 |
-   | 11 | 0 | 0 | 0 | 0 |
-   | 10 | 0 | 0 | 1 | 0 |
+   ![tab 2](https://user-images.githubusercontent.com/124675843/218859039-c22aa17d-3beb-4ade-b999-f7fbc5d9a6a6.png)
+
 
 2. Mark the largest possible implicants in the K-map and according to them, write the equations of simplified SoP (Sum of the Products) form of the "greater than" function and simplified PoS (Product of the Sums) form of the "less than" function.
 
