@@ -6,12 +6,7 @@
 
    Greater than:
 
-   | b > a | 00 | 01 | 11 | 10 |
-   | :-: | :-: | :-: | :-: | :-: |
-   | 00 | 0 | 0 | 0 | 0 |
-   | 01 | 1 | 0 | 0 | 0 |
-   | 11 | 1 | 1 | 0 | 1 |
-   | 10 | 1 | 1 | 0 | 0 |
+   ![Bez názvu](https://user-images.githubusercontent.com/124675843/218857722-cec72749-1dbc-4ab4-ae1d-84fe898df1dc.png)
 
    Less than:
 
