@@ -8,6 +8,9 @@
 
    ![tab1](https://user-images.githubusercontent.com/124675843/218859012-6559d02e-f5b0-48fe-84a5-022c557a77da.png)
 
+   ![tab 1 0](https://user-images.githubusercontent.com/124675843/219856290-591c99f2-89bc-4bb8-bdc0-73e2d31d7ecd.png)
+
+   
    | b>a | 00 | 01 | 11 | 10 |
    | :-: | :-: | :-: | :-: | :-: |
    | 00 | 0 | 0 | 0 | 0 |
