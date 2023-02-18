@@ -8,24 +8,14 @@
 
    ![tab1](https://user-images.githubusercontent.com/124675843/218859012-6559d02e-f5b0-48fe-84a5-022c557a77da.png)
 
-   | b > a | 00 | 01 | 11 | 10 |
-   | :-: | :-: | :-: | :-: | :-: |
-   | 00 | 0 | 0 | 0 | 0 |
-   | 01 | 1 | 0 | 0 | 0 |
-   | 11 | 1 | 1 | 0 | 1 |
-   | 10 | 1 | 1 | 0 | 0 |
+   ![tab 1 0](https://user-images.githubusercontent.com/124675843/219864348-fbfd34c8-8e42-4661-ac24-a6d788c9aa21.png)
    
    
    Less than:
 
    ![tab 2](https://user-images.githubusercontent.com/124675843/218859039-c22aa17d-3beb-4ade-b999-f7fbc5d9a6a6.png)
 
-   | b < a | 00 | 01 | 11 | 10 |
-   | :-: | :-: | :-: | :-: | :-: |
-   | 00 | 0 | 1 | 1 | 1 |
-   | 01 | 0 | 0 | 1 | 1 |
-   | 11 | 0 | 0 | 0 | 0 |
-   | 10 | 0 | 0 | 1 | 0 |
+   ![tab 2 0](https://user-images.githubusercontent.com/124675843/219864356-2a7d2b43-54ea-480b-a35c-2253eac3f767.png)
 
 
 2. Mark the largest possible implicants in the K-map and according to them, write the equations of simplified SoP (Sum of the Products) form of the "greater than" function and simplified PoS (Product of the Sums) form of the "less than" function.
