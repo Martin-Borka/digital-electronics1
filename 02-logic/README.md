@@ -14,7 +14,8 @@
 
    ![tab 2](https://user-images.githubusercontent.com/124675843/218859039-c22aa17d-3beb-4ade-b999-f7fbc5d9a6a6.png)
 
-   
+   ![tab 2 0](https://user-images.githubusercontent.com/124675843/219856478-199b3371-222f-4fef-9b4a-8a7d16961a3e.png)
+
 
    | b<a | 00 | 01 | 11 | 10 |
    | :-: | :-: | :-: | :-: | :-: |
