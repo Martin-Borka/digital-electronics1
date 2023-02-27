@@ -5,17 +5,35 @@
 1. Listing of VHDL architecture from source file `mux_3bit_4to1.vhd`. Always use syntax highlighting, meaningful comments, and follow VHDL guidelines:
 
 ```vhdl
+
+entity mux_3bit_4to1 is
+ Port ( 
+        sel_i        : in  std_logic_vector((2-1) downto 0);
+        a_i        	 : in  std_logic_vector((3-1) downto 0);
+        b_i          : in  std_logic_vector((3-1) downto 0);
+        c_i          : in  std_logic_vector((3-1) downto 0);
+        d_i          : in  std_logic_vector((3-1) downto 0);
+        y_o          : out std_logic_vector((3-1) downto 0)
+);
+end mux_3bit_4to1;
+
 architecture Behavioral of mux_3bit_4to1 is
+
 begin
 
-    -- WRITE YOUR CODE HERE
+y_o <=    a_i when (sel_i = "00" ) else
+          b_i when (sel_i = "01" ) else
+          c_i when (sel_i = "10" ) else
+          d_i when (sel_i = "11" );
 
-end architecture Behavioral;
+
+end Behavioral;
 ```
 
 2. Screenshot with simulated time waveforms. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
-   ![your figure]()
+   ![221543366-c4a0ac69-b698-4166-80e8-5d25cdbd052b](https://user-images.githubusercontent.com/124675843/221641252-31b1519a-61d0-44c6-a766-2413357417ed.png)
+
 
 3. Listing of pin assignments for the Nexys A7 board in `nexys-a7-50t.xdc`. **DO NOT list** the whole file, just your switch and LED settings.
 
