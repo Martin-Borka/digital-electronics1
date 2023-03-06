@@ -29,7 +29,7 @@
    --------------------------------------------------------------------
    -- Experiments on your own: LED(7:4) indicators
 
-  LED(3 downto 0) <= SW;
+      LED(3 downto 0) <= SW;
 
 
 
