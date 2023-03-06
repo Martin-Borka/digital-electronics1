@@ -46,6 +46,7 @@
       d 		<= '1' when (SW = "0001" OR SW = "0010" or SW = "0100" or SW = "1000") else '0';
    ```
 
+   a,b,c,d jsou pro šnaší zobrazení EPWave v EDAplaygroung
 3. Screenshot with simulated time waveforms for LED(7:4). Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
    ![223218129-95199da8-d3fd-4416-b624-6a7cffca57d0](https://user-images.githubusercontent.com/124675843/223221929-eee891e3-dc3b-40c6-bfb0-37d7583202d3.png)
