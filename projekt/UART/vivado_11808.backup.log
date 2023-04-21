@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Apr 20 20:30:40 2023
+# Process ID: 11808
+# Current directory: C:/Users/edach/Documents/digital-electronics1/digital-electronics1/projekt/UART
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent27384 C:\Users\edach\Documents\digital-electronics1\digital-electronics1\projekt\UART\UART.xpr
+# Log file: C:/Users/edach/Documents/digital-electronics1/digital-electronics1/projekt/UART/vivado.log
+# Journal file: C:/Users/edach/Documents/digital-electronics1/digital-electronics1/projekt/UART\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/edach/Documents/digital-electronics1/digital-electronics1/projekt/UART/UART.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/237231/Documents/digital-electronics1/projekt/UART' since last save.
+WARNING: [filemgmt 56-2] Default IP Output Path : Could not find the directory 'C:/Users/edach/Documents/digital-electronics1/digital-electronics1/projekt/UART/UART.gen/sources_1', nor could it be found using path 'C:/Users/237231/Documents/digital-electronics1/projekt/UART/UART.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Apr 20 21:01:13 2023...

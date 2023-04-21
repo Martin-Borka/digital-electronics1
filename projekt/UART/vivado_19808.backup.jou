@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Apr 20 21:04:19 2023
+# Process ID: 19808
+# Current directory: C:/Users/edach/Documents/digital-electronics1/digital-electronics1/projekt/UART
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14656 C:\Users\edach\Documents\digital-electronics1\digital-electronics1\projekt\UART\UART.xpr
+# Log file: C:/Users/edach/Documents/digital-electronics1/digital-electronics1/projekt/UART/vivado.log
+# Journal file: C:/Users/edach/Documents/digital-electronics1/digital-electronics1/projekt/UART\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/edach/Documents/digital-electronics1/digital-electronics1/projekt/UART/UART.xpr
+file mkdir C:/Users/edach/Documents/digital-electronics1/digital-electronics1/projekt/UART/UART.srcs/constrs_1
+file mkdir C:/Users/edach/Documents/digital-electronics1/digital-electronics1/projekt/UART/UART.srcs/constrs_1/new
+close [ open C:/Users/edach/Documents/digital-electronics1/digital-electronics1/projekt/UART/UART.srcs/constrs_1/new/nexys-7a-50t.xdc w ]
+add_files -fileset constrs_1 C:/Users/edach/Documents/digital-electronics1/digital-electronics1/projekt/UART/UART.srcs/constrs_1/new/nexys-7a-50t.xdc
