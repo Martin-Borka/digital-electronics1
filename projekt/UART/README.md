@@ -2,13 +2,13 @@
 
 ### Team members
 
-* Member 1 (responsible for ...)
-* Member 2 (responsible for ...)
-* Member 3 (responsible for ...)
+* Eduard Chyba (responsible for ...)
+* Martin Borka (responsible for ...)
+* Petr Pánis (responsible for ...)
 
 ## Theoretical description and explanation
 
-Enter a description of the problem and how to solve it.
+UART
 
 ## Hardware description of demo application
 
