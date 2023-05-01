@@ -4,7 +4,7 @@
 
 * Eduard Chyba
 * Martin Borka
-* Petr Pánis
+* Petr Pánisz
 
 ## Theoretical description and explanation
 
@@ -30,11 +30,28 @@ Put flowchats/state diagrams of your algorithm(s) and direct links to source/tes
 
 Write descriptive text and simulation screenshots of your components.
 
-## Instructions
+## Ovládámi
+naše UART jsou 2 ruzné programi rx a tx.
 
-Write an instruction manual for your application, including photos or a link to a video.
+TX:
+
+8 Přepínačů na pravo (SW 0-7): nastavování hodnot odesílaných bitů 8, které se zobrazí na displejích
+
+Přepínač v levo (SW 15): přepnutí mezi 9600 a 19200 BD
+
+Prostřední tlačítko: reset
+
+Zpráva se vysílá portem JB(0)
+
+TX:
+
+Přijmací port je JA(0) a přijaté byty se zobrazí na displejích
+
+Přepínač v levo (SW 15): přepnutí mezi 9600 a 19200 BD
+
+Prostřední tlačítko: reset
 
 ## References
 
-1. Put here the literature references you used.
+1. https://cs.wikipedia.org/wiki/UART
 2. ...
