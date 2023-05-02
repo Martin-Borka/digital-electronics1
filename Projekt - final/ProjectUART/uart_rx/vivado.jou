@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue May  2 09:06:24 2023
+# Process ID: 20180
+# Current directory: C:/Users/edach/Documents/digital-electronics1/digital-electronics1/digital-electronics-1-main/ProjectUART/uart_rx
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent21856 C:\Users\edach\Documents\digital-electronics1\digital-electronics1\digital-electronics-1-main\ProjectUART\uart_rx\uart_rx.xpr
+# Log file: C:/Users/edach/Documents/digital-electronics1/digital-electronics1/digital-electronics-1-main/ProjectUART/uart_rx/vivado.log
+# Journal file: C:/Users/edach/Documents/digital-electronics1/digital-electronics1/digital-electronics-1-main/ProjectUART/uart_rx\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/edach/Documents/digital-electronics1/digital-electronics1/digital-electronics-1-main/ProjectUART/uart_rx/uart_rx.xpr
+update_compile_order -fileset sources_1

@@ -1,0 +1,27 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue May  2 09:06:29 2023
+# Process ID: 14024
+# Current directory: C:/Users/edach/Documents/digital-electronics1/digital-electronics1/digital-electronics-1-main/ProjectUART/uart_tx
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent20868 C:\Users\edach\Documents\digital-electronics1\digital-electronics1\digital-electronics-1-main\ProjectUART\uart_tx\uart_tx.xpr
+# Log file: C:/Users/edach/Documents/digital-electronics1/digital-electronics1/digital-electronics-1-main/ProjectUART/uart_tx/vivado.log
+# Journal file: C:/Users/edach/Documents/digital-electronics1/digital-electronics1/digital-electronics-1-main/ProjectUART/uart_tx\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/edach/Documents/digital-electronics1/digital-electronics1/digital-electronics-1-main/ProjectUART/uart_tx/uart_tx.xpr
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'C:/Users/edach/Documents/digital-electronics1/digital-electronics1/digital-electronics-1-main/ProjectUART/uart_tx'
+INFO: [Project 1-313] Project file moved from 'C:/Users/Unraid/Desktop/ProjectUART temp/uart_tx' since last save.
+WARNING: [filemgmt 56-2] Default IP Output Path : Could not find the directory 'C:/Users/edach/Documents/digital-electronics1/digital-electronics1/digital-electronics-1-main/ProjectUART/uart_tx/uart_tx.gen/sources_1', nor could it be found using path 'C:/Users/Unraid/Desktop/ProjectUART temp/uart_tx/uart_tx.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+WARNING: [Project 1-509] GeneratedRun file for 'synth_1' not found
+WARNING: [Project 1-509] GeneratedRun file for 'impl_1' not found
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue May  2 09:12:13 2023...
