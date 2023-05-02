@@ -3,7 +3,7 @@
 ### Členi týmu
 
 * Eduard Chyba
-* Martin Borka
+* Martin Borka1
 * Peter Pánisz
 
 ## Theoretical description and explanation
