@@ -24,11 +24,20 @@ Přijímač přímá na portu JD(0) přepínač 15 a tlačítko reset zde zastá
 
 ## Software description
 
-Put flowchats/state diagrams of your algorithm(s) and direct links to source/testbench files in `src` and `sim` folders. 
+TX:
 
-### Component(s) simulation
+Data navolená na přepínačích jdou jak do driveru pro zobrazení na displeji tak to samotného vysílače tx, kde jsou pomocí clock_en a čítače postupně odesílány podle pravidel UART. Rychlost odesílání neboli rychlost čítače a clock_en jsou závislé na bautratu který můžeme měnit mezi 2 předem nastavenými hodnotami. tok dat je z tx následně odeslán dále.
 
-Write descriptive text and simulation screenshots of your components.
+![Screenshot_2](https://user-images.githubusercontent.com/124675843/235603958-2d143e35-bda2-410f-bf94-b7b2e43c558b.png)
+
+![Screenshot_3](https://user-images.githubusercontent.com/124675843/235604029-a33e8a77-291d-4fd4-af66-0bf1092bd1fe.png)
+
+RX:
+
+Data přijatá z portu se pomocí clock_en a čítače zapíší do vnitřního signálu který dále potuje to zobrazovací metody. Zprávné dekódování a zapsaní hodnot je závislé na bautratu který se může měnit mezi 2 předem nastavenými hodnotami.
+
+![Screenshot_4](https://user-images.githubusercontent.com/124675843/235610020-72f0992c-9d3c-44c9-afda-89ca4fcbbedc.png)
+
 
 ## Ovládámi
 naše UART jsou 2 ruzné programi rx a tx.
