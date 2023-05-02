@@ -1,10 +1,10 @@
-# VHDL projekt - AURT
+# VHDL projekt - UART
 
 ### Členi týmu
 
 * Eduard Chyba
 * Martin Borka
-* Petr Pánisz
+* Peter Pánisz
 
 ## Theoretical description and explanation
 
@@ -39,14 +39,14 @@ Data přijatá z portu se pomocí clock_en a čítače zapíší do vnitřního 
 ![Screenshot_4](https://user-images.githubusercontent.com/124675843/235610020-72f0992c-9d3c-44c9-afda-89ca4fcbbedc.png)
 
 
-## Ovládámi
-naše UART jsou 2 ruzné programi rx a tx.
+## Ovládání
+naše UART jsou 2 ruzné programy rx a tx.
 
 TX:
 
 8 Přepínačů na pravo (SW 0-7): nastavování hodnot odesílaných bitů 8, které se zobrazí na displejích
 
-Přepínač v levo (SW 15): přepnutí mezi 9600 a 19200 BD
+Přepínač vlevo (SW 15): přepnutí mezi 9600 a 19200 BD
 
 Prostřední tlačítko: reset
 
@@ -56,7 +56,7 @@ TX:
 
 Přijmací port je JD(0) a přijaté byty se zobrazí na displejích
 
-Přepínač v levo (SW 15): přepnutí mezi 9600 a 19200 BD
+Přepínač vlevo (SW 15): přepnutí mezi 9600 a 19200 BD
 
 Prostřední tlačítko: reset
 
